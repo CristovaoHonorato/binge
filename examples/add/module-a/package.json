@@ -4,7 +4,7 @@
       "classnames": "2.2.5",
       "fbjs": "0.8.14",
       "invariant": "2.2.2",
-      "lodash": "4.17.4",
+      "lodash": "4.17.15",
       "moment": "2.20.0",
       "q": "1.5.0"
   }
